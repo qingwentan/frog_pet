@@ -16,4 +16,4 @@ env/
 # Build outputs
 build/
 dist/
-
+assets/*.iconset/

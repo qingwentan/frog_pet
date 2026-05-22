@@ -7,6 +7,7 @@ This is your desktop frog pet app built with Python and PyQt5.
 - `frog_pet_qt.py` — main frog pet application script
 - `frog_pet.py` — older or extra frog pet script
 - `setup.py` — py2app build configuration
+- `assets/frog_icon.icns` — frog app icon used by the macOS bundle
 - `requirements.txt` — Python dependencies
 - `frog_env/` — local Python virtual environment, not committed to GitHub
 - `build/` — temporary build files created by py2app, not committed to GitHub

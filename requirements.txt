@@ -1,0 +1,2 @@
+PyQt5
+py2app; sys_platform == "darwin"

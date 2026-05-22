@@ -1,0 +1,19 @@
+.DS_Store
+.Rhistory
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Virtual environments
+frog_env/
+.venv/
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+

@@ -54,4 +54,9 @@ open ~/frog_pet/dist/Frog\ Pet.app
 - If macOS blocks the app, use System Settings > Privacy & Security to allow it.
 - Recreate `frog_env` with the setup command above if you clone this repo on a new computer.
 - You can move the folder anywhere else later, but update the paths in your commands accordingly.
-
+- frogwithchip
+- ![frog](chip_frog.png)
+- frog eat fly
+- ![frog](eatfly.png)
+- frog sleep
+- ![frog](sleep_frog.png)

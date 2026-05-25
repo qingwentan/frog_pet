@@ -5,7 +5,8 @@ This is your desktop frog pet app built with Python and PyQt5.
 ## Project Structure
 
 - `frog_pet_qt.py` — main frog pet application script
-- `frog_pet.py` — older or extra frog pet script
+- `frog_pet.py` — older frog pet script
+- `frogpetv2.py` - frog pet application with chip,beer,heart,sneak,catch...
 - `setup.py` — py2app build configuration
 - `assets/frog_icon.icns` — frog app icon used by the macOS bundle
 - `requirements.txt` — Python dependencies
@@ -53,3 +54,4 @@ open ~/frog_pet/dist/Frog\ Pet.app
 - If macOS blocks the app, use System Settings > Privacy & Security to allow it.
 - Recreate `frog_env` with the setup command above if you clone this repo on a new computer.
 - You can move the folder anywhere else later, but update the paths in your commands accordingly.
+
